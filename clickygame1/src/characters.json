@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "image": "/images/GOT01.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/images/GOT02.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/images/GOT03.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/images/GOT04.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/images/GOT04a.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/images/GOT05.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/images/GOT06.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/images/GOT07.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/GOT08.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/images/GOT09.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/images/GOT10.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/images/GOT11.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "/images/GOT12.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "/images/GOT13.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "/images/GOT14.jpg",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "/images/GOT15.jpg",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "/images/GOT16.jpg",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "/images/GOT17.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "image": "/images/GOT18.jpg",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "image": "/images/GOT19.jpg",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "image": "/images/GOT20.jpg",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "image": "/images/GOT21.jpg",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "image": "/images/GOT22.jpg",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "image": "/images/GOT23.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "image": "/images/GOT24.jpg",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "image": "/images/GOT25.jpg",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "image": "/images/GOT26.jpg",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "image": "/images/GOT27.jpg",
+    "clicked": false
+  },
+  {
+    "id": 29,
+    "image": "/images/GOT29.jpg",
+    "clicked": false
+  },
+  {
+    "id": 30,
+    "image": "/images/GOT30.jpg",
+    "clicked": false
+  },
+  {
+    "id": 31,
+    "image": "/images/GOT31.jpg",
+    "clicked": false
+  },
+  {
+    "id": 32,
+    "image": "/images/GOT32.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 33,
+    "image": "/images/GOT32.jpg",
+    "clicked": false
+  },
+  {
+    "id": 34,
+    "image": "/images/GOT33.jpg",
+    "clicked": false
+  }
+]

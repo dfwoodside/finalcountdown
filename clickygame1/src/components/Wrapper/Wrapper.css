@@ -1,0 +1,11 @@
+.wrapper {
+    /* padding-top: 50px; */
+    background-image: url('https://timedotcom.files.wordpress.com/2017/08/game-of-thrones-the-wall-history-03.jpg');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 50px 10%;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+}
